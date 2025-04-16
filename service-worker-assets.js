@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "n7HPY7dX",
+  "version": "xrU8w992",
   "assets": [
     {
       "hash": "sha256-hLoI7vzdrdsiE1m+bVJBpsvAjftijr1G1RYIzgf6kBY=",
@@ -14,16 +14,16 @@ self.assetsManifest = {
       "url": "_content/MudBlazor/MudBlazor.min.js"
     },
     {
-      "hash": "sha256-fEeo9/okC3FxdoAiijTOsZlNStfXecb7Gs1PXeDQIfw=",
-      "url": "_framework/DevTools.8tihirvhiy.wasm"
+      "hash": "sha256-oCF8QceQzQ9VqjZtAqKYV4X6p/bxnieict5QsrO00V8=",
+      "url": "_framework/DevTools.st3ttvpzrk.wasm"
     },
     {
       "hash": "sha256-vYHM//U+oOsEuTYn0hhLb9oFUGo3HXUaNM366EQL044=",
       "url": "_framework/Microsoft.AspNetCore.Components.Forms.pl7ta3gmle.wasm"
     },
     {
-      "hash": "sha256-34kACSppn9PI6uyF9Uh+Y2NZammX8us3FPnhi4gHU6M=",
-      "url": "_framework/Microsoft.AspNetCore.Components.Web.1wm5jsdbm1.wasm"
+      "hash": "sha256-J6zlVfUpIxwvjandorVQleiH/6Z4w1ZdF6c57OJRJU8=",
+      "url": "_framework/Microsoft.AspNetCore.Components.Web.rjmwi41u0v.wasm"
     },
     {
       "hash": "sha256-c2BHH1bn4korvlrWulRyewn3dyNfiIgHyBs1sK+puhE=",
@@ -210,7 +210,7 @@ self.assetsManifest = {
       "url": "_framework/System.f0fr8djds0.wasm"
     },
     {
-      "hash": "sha256-wxwBPrrTG+Z9/xvYShw10/RzF2jZLPTjtZMTr8MPFX0=",
+      "hash": "sha256-ndh61XpzcQSyfg/oxSykli+fX8eXqEBaRXmB6NMbCno=",
       "url": "_framework/blazor.boot.json"
     },
     {
@@ -266,7 +266,7 @@ self.assetsManifest = {
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-emY1qo/lk+icr2s0Z64iVDkPJbVGyIpvavUcrXbtXho=",
+      "hash": "sha256-we1o/j2z9e29deN7GJVM3UEEpevjuNb0PyOvI4NhHOs=",
       "url": "index.html"
     },
     {
